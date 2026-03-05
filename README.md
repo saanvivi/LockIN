@@ -37,15 +37,10 @@
    cd lockin-frontend
 
     Install dependencies:
-    ```
 
     npm install
-```
     Start the application:
-    Bash
-```
     npm start
-```
 
 ## Contributors
     Siya Rath - Frontend Developer & System Architect.
