@@ -14,7 +14,7 @@
 
 ## 🛠️ Technical Stack
 
-* [cite_start]**Frontend Library:** React.js (Functional Components, Hooks, Context API)[cite: 12].
+* **Frontend Library:** React.js (Functional Components, Hooks, Context API)[cite: 12].
 * **Routing:** React Router v6 (Dynamic & Protected Routes).
 * **Hardware Integration:** `html5-qrcode` (Scanner), `react-qr-code` (Generator).
 * **Design:** Custom CSS3 with an Emerald Green "LockIN" aesthetic.
