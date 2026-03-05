@@ -34,17 +34,17 @@
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/lockin-frontend.git](https://github.com/yourusername/lockin-frontend.git)
-   cd lockin-frontend
-```bash
+   cd lockin-frontend ```
 
 2. **Install dependencies:**
  ```bash
     npm install
- ```bash
+ ```
+
 3. **Start the application**:
- ```bash
+ ```
     npm start
- ```bash
+ ```
 
 ## Contributors
     Siya Rath - Frontend Developer & System Architect.
