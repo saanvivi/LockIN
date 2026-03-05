@@ -1,6 +1,6 @@
 # 🔒 LockIN: Smart Event Management System
 
-**LockIN** is a specialized front-end React application developed for the **ICT 3230 Full Stack Web Development Tools** course at **Manipal Institute of Technology**. It provides a comprehensive solution for event lifecycle management, featuring dynamic discovery, registration, and hardware-integrated QR verification.
+**LockIN** is a MERN based application developed for the **ICT 3230 Full Stack Web Development Tools** course at **Manipal Institute of Technology**. It provides a comprehensive solution for event lifecycle management, featuring dynamic discovery, registration, and hardware-integrated QR verification.
 
 ## 🚀 Key Features
 
