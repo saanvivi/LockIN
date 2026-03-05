@@ -35,12 +35,16 @@
    ```bash
    git clone [https://github.com/yourusername/lockin-frontend.git](https://github.com/yourusername/lockin-frontend.git)
    cd lockin-frontend
+```bash
 
-    Install dependencies:
-
+2. **Install dependencies:**
+ ```bash
     npm install
-    Start the application:
+ ```bash
+3. **Start the application**:
+ ```bash
     npm start
+ ```bash
 
 ## Contributors
     Siya Rath - Frontend Developer & System Architect.
